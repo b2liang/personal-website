@@ -1,3 +1,42 @@
+.body{
+	margin-bottom: 60px;
+}
+
 .navbar-text > a{
 	text-decoration: none
 }
+
+.experience-thumb img:hover{
+	transform:scale(1.1);
+}
+
+.thumbnail img{
+	transition: all 0.3s ease 0s;
+	width: 100%;
+}
+.thumbnail{
+	overflow:hidden;
+}
+.body-container{
+	margin-bottom: 100px;
+}
+
+h1{
+	font-family: 'Orbitron', sans-serif;
+
+}
+
+.panel-title{
+
+	 font-family: 'Orbitron', sans-serif;
+}
+.btn-primary{
+	background-color: black;
+	color: White;
+	border-color: black;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active{	
+        background-color: black:
+	border-color:black;
+}
+
